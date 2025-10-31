@@ -48,7 +48,7 @@ Here are some of my favorite projects where I applied **machine learning**, **LL
 ---
 
 ### 🤝 Let's Connect
-💼 [LinkedIn](https://www.linkedin.com/in/Fatimshaikh/)  
+💼 [LinkedIn](https://www.linkedin.com/in/fatima-shaikh-392087150/)  
 
 ---
 
