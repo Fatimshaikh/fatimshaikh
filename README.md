@@ -1,5 +1,3 @@
-![Header](https://github.com/Fatimshaikh/fatimshaikh/assets/yourimageid/banner.png)
-
 # 👋 Hi, I'm Fatima Shaikh  
 🚀 Software Engineer | Data Science & Machine Learning Enthusiast | LLM & LangChain | Python Developer | Technical Writer  
 
