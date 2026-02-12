@@ -21,6 +21,11 @@ My work combines **machine learning**, **LLM-based solutions**, and **clean UI d
 ![LLMs](https://img.shields.io/badge/LLMs-800080?style=for-the-badge&logo=openai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikit-learn&logoColor=orange)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Data Science](https://img.shields.io/badge/Data%20Science-102230?style=for-the-badge&logo=python&logoColor=yellow)
+![Model Implementation](https://img.shields.io/badge/Model%20Implementation-0A66C2?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Exploratory Data Analysis](https://img.shields.io/badge/EDA-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Data Preprocessing](https://img.shields.io/badge/Data%20Preprocessing-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
 
 ---
 
