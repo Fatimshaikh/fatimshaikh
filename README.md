@@ -19,6 +19,7 @@ My work combines **machine learning**, **LLM-based solutions**, and **clean UI d
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCA28?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-800080?style=for-the-badge&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine Learning-800080?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
 ---
