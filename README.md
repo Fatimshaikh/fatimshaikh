@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Fatima Shaikh  
-🚀 Software Engineer | Data Science & Machine Learning Enthusiast | LLM & LangChain | Python Developer | Technical Writer  
+# Hi, I'm Fatima Shaikh  
+Software Engineer | Data Science & Machine Learning Enthusiast | LLM & LangChain | Python Developer | Technical Writer  
 
 I’m passionate about building intelligent systems and modern web applications that solve real-world problems.  
-My work combines **machine learning**, **LLM-based solutions**, and **clean UI design** using technologies like Django, React, FastAPI, and LangChain.  
+My work combines **machine learning**, **LLM-based solutions**, and **clean UI design** using technologies like Djang, FastAPI, and LangChain.  
 
-📚 I enjoy learning continuously from deploying AI models to designing smooth web experiences.  
-💡 Currently exploring: Generative AI, LLM fine-tuning, and full-stack app scalability.
+I enjoy learning continuously, from deploying AI models to designing smooth web experiences.  
+Currently exploring: Generative AI, LLM fine-tuning, and full-stack app scalability.
 
 ---
 
@@ -25,32 +25,34 @@ My work combines **machine learning**, **LLM-based solutions**, and **clean UI d
 ![Model Implementation](https://img.shields.io/badge/Model%20Implementation-0A66C2?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Exploratory Data Analysis](https://img.shields.io/badge/EDA-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Data Preprocessing](https://img.shields.io/badge/Data%20Preprocessing-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-
----
-
-### 🌱 Soft Skills
-💬 Communication | 🧩 Problem Solving | ⏱️ Time Management  
-🎯 Critical Thinking | 🌍 Adaptability | 🤝 Team Collaboration
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects
+### Soft Skills
+Communication | Problem Solving | Time Management  
+Critical Thinking | Adaptability | Team Collaboration
+
+---
+
+### Featured Projects
 Here are some of my favorite projects where I applied **machine learning**, **LLMs**, and **full-stack development** skills.  
 
-🔗 **Explore all repositories:** [github.com/Fatimshaikh?tab=repositories](https://github.com/Fatimshaikh?tab=repositories)
+**Explore all repositories:** [github.com/Fatimshaikh?tab=repositories](https://github.com/Fatimshaikh?tab=repositories)
 
 ---
 
-### 📊 GitHub Stats & Activity
+### GitHub Stats & Activity
 ![Fatima's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fatimshaikh&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatimshaikh&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Fatimshaikh&theme=radical)
 
 ---
 
-### 🤝 Let's Connect
-💼 [LinkedIn](https://www.linkedin.com/in/fatima-shaikh-392087150/)  
+### Let's Connect
+[LinkedIn](https://www.linkedin.com/in/fatima-shaikh-392087150/)  
 
 ---
 
