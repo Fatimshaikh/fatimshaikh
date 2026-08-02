@@ -1,5 +1,5 @@
 # Hi, I'm Fatima Shaikh  
-Software Engineer | Data Science & Machine Learning Enthusiast | LLM & LangChain | Python Developer | Technical Writer  
+Software Engineer | Data Enthusiast | LLM & LangChain | Python Developer | Technical Writer  
 
 I’m passionate about building intelligent systems and modern web applications that solve real-world problems.  
 My work combines **machine learning**, **LLM-based solutions**, and **clean UI design** using technologies like Djang, FastAPI, and LangChain.  
